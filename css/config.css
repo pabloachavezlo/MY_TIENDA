@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --color:  black;
+    --color: rgb(17, 14, 14);
+    --color:  navy;
+    --color:  aliceblue;
+    --color:  rgb(13, 13, 34);
+    --color:  rgb(0, 0, 46);
+    --color:  rgb(0, 47, 255);
+    --color:  lightseagreen;
+    --color:  rgb(20, 135, 180);
+    --color:  rgb(65, 129, 129);
+    --color:  darkred;
+    --color:  rgb(97, 3, 3);
+}
+
+html {
+    font-size: 10px;
+    font-family: 'Tilt Neon', cursive;
+}
